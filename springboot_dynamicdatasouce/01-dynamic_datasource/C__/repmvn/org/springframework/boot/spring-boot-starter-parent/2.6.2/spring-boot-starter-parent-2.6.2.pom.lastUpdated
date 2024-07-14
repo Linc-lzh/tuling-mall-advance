@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 11 14:36:52 CST 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1699684612143
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.6.2 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.108.215, repo.maven.apache.org/2a04\:4e42\:8c\:0\:0\:0\:0\:215] failed\: No route to host (connect failed)

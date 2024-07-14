@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 11 14:05:03 CST 2023
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1699682702564
+https\://repo.spring.io/snapshot/.lastUpdated=1699682703160
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1699682699976
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1699682698400
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:jar\:2.6.2 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/146.75.112.215, repo.maven.apache.org/2a04\:4e42\:8c\:0\:0\:0\:0\:215] failed\: No route to host (connect failed)

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 11 14:04:58 CST 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1699682698400
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:5.3.14 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/146.75.112.215, repo.maven.apache.org/2a04\:4e42\:8c\:0\:0\:0\:0\:215] failed\: No route to host (connect failed)

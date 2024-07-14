@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-dynamic_datasource/dynamic_datasource.iml" filepath="$PROJECT_DIR$/01-dynamic_datasource/dynamic_datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-dynamic_datasource_framework/dynamic_datasource_framework.iml" filepath="$PROJECT_DIR$/03-dynamic_datasource_framework/dynamic_datasource_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-dynamic_mybatis/dynamic_mybatis.iml" filepath="$PROJECT_DIR$/02-dynamic_mybatis/dynamic_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot_dynamicdatasouce.iml" filepath="$PROJECT_DIR$/.idea/springboot_dynamicdatasouce.iml" />
+    </modules>
+  </component>
+</project>
